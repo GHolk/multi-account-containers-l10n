@@ -32,6 +32,12 @@
   "enableRedirectThisContainer": {
     "message": "Enable Redirect and Restriction of Container"
   },
+  "disableRedirectAllContainer": {
+    "message": "Disable Redirect and Restriction in All Containers"
+  },
+  "enableRedirectAllContainer": {
+    "message": "Enable Redirect and Restriction in All Containers"
+  },
   "openANewTabIn": {
     "message" : "Open a New Tab in…"
   },
