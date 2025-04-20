@@ -26,6 +26,12 @@
   "alwaysOpenSiteInContainer": {
     "message": "Always Open Site in Container"
   },
+  "disableRedirectThisContainer": {
+    "message": "Disable Redirect and Restriction of Container"
+  },
+  "enableRedirectThisContainer": {
+    "message": "Enable Redirect and Restriction of Container"
+  },
   "openANewTabIn": {
     "message" : "Open a New Tab in…"
   },

@@ -26,6 +26,12 @@
   "alwaysOpenSiteInContainer": {
     "message": "\u7e3d\u662f\u7528\u5bb9\u5668\u958b\u555f\u7db2\u7ad9"
   },
+  "disableRedirectThisContainer": {
+    "message": "停用此容器的重導向與限制"
+  },
+  "enableRedirectThisContainer": {
+    "message": "啟用此容器的重導向與限制"
+  },
   "openANewTabIn": {
     "message": "\u7528\u4e0b\u5217\u5bb9\u5668\u958b\u555f\u65b0\u5206\u9801\u2026"
   },
